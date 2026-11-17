@@ -34,11 +34,11 @@ I am a **13-year-old self-taught developer**, focused on building ambitious proj
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stacksdevv&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksdevv&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stacksdevv&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
 <br />
 
 <div align="center">
