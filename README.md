@@ -21,8 +21,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Stacksdevv&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stacksdevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### Links
@@ -32,5 +30,3 @@
 
 
 ---
-
-![snake](https://raw.githubusercontent.com/stacksdevv/stacksdevv/output/snake-dark.svg)
