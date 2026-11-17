@@ -1,32 +1,46 @@
-[![Banner](https://github.com/Stacksdevv/Stacksdevv/blob/main/banner.png)](https://github.com/Stacksdevv)
+<div align="center">
 
-### Stacksdevv
+# Hi there, I'm Stacksdevv! 👋
 
-13-year-old developer focused on building projects and improving every day.
+[![Nexus Revival](https://img.shields.io/badge/Nexus_Revival-Visit_Website-8a1cff?style=for-the-badge&logo=roblox&logoColor=white)](https://nexusrevival.me)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/MNsFykezhA)
 
-**Main technologies:** C#, Python, Node.js  
-**Also working with:** C++, Linux  
-**Databases:** MySQL, PostgreSQL, Supabase  
-**Environment:** Windows (primary) and Linux
+</div>
+
+### 👨‍💻 About Me
+I am a **13-year-old self-taught developer**, focused on building ambitious projects and improving every day. I am the founder and lead developer of **Nexus Revival**.
+
+- 🔭 I’m currently working on **Nexus Revival** (A Roblox 2019 Revival).
+- 🌱 I’m currently learning **Advanced C# and React**.
+- 💬 Ask me about **C#, ASP.NET Core, PostgreSQL, Node.js, or Roblox**.
+- ⚡ Fun fact: I built a fully functional Discord bot and web backend from a mobile phone using RDP.
 
 ---
 
-### Tech Stack
+### 🚀 The Nexus Project
+**Nexus Revival** is a custom Roblox revival project that recreates the classic 2019 experience.
+- **Backend:** C# / ASP.NET Core (.NET 6)
+- **Database:** PostgreSQL (Supabase)
+- **Frontend:** React / Next.js
+- **Bot:** Node.js (Discord.js)
 
+---
+
+### 🛠️ Tech Stack
+<div align="left">
 [![Skills](https://skillicons.dev/icons?i=cs,cpp,python,nodejs,windows,linux,mysql,postgres,supabase,git,github,vscode)](https://skillicons.dev)
 
----
-
-### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Stacksdevv&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### Links
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stacksdevv&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Stacksdevv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksdevv&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-- [**Guns.lol**](https://guns.lol/0i6m)
-- [**Discord Profile**](https://discord.com/users/743779088996630628)
+<br />
 
-
----
+<div align="center">
+  <i>Building the future of Nexus, one line of code at a time. 🧪</i>
+</div>
