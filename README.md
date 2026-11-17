@@ -29,3 +29,8 @@
 
 - [**Guns.lol**](https://guns.lol/0i6m)
 - [**Discord Profile**](https://discord.com/users/743779088996630628)
+
+
+---
+
+![snake](https://raw.githubusercontent.com/stacksdevv/stacksdevv/output/snake-dark.svg)
