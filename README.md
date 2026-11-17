@@ -28,15 +28,16 @@ I am a **13-year-old self-taught developer**, focused on building ambitious proj
 
 ### 🛠️ Tech Stack
 <div align="left">
-[![Skills](https://skillicons.dev/icons?i=cs,cpp,python,nodejs,windows,linux,mysql,postgres,supabase,git,github,vscode)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,py,react,postgres,mysql,supabase,windows,linux,vscode,git,github" alt="Tech Stack" />
+</div>
 
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stacksdevv&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Stacksdevv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksdevv&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stacksdevv&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stacksdevv&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <br />
